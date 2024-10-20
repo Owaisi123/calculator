@@ -1,0 +1,24 @@
+table{
+    width: 500px;
+    margin: auto;
+    background-color:rgb(188, 224, 151);
+}
+tr td{
+    padding: 10px;
+}
+table button{
+    width: 40px;
+    height: 70px;
+    border-radius: 50px;
+    color: rgb(42, 17, 184);
+    background-color:fuchsia;
+    font-size: xx-large;
+}
+table input{
+    width: 90%;
+    border-radius:12px ;
+    padding: 10px;
+    text-align: right;
+    height: 40px;
+
+}
